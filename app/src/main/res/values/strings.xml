@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="calc_text">Кальулятор</string>
+    <string name="first_value"></string>
+    <string name="second_value"></string>
+    <string name="button_plus">+</string>
+    <string name="button_minus">-</string>
+    <string name="button_umn">*</string>
+    <string name="button_del">/</string>
+    <string name="result_field">Результат</string>
+</resources>
